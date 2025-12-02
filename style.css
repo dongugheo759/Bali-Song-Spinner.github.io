@@ -1,0 +1,13 @@
+h1{
+    color: cyan;
+}
+i, b{
+    color:antiquewhite;
+}
+button{
+    color: wheat;
+    background-color: darkgoldenrod;
+}
+body{
+    background-color: black;
+}
